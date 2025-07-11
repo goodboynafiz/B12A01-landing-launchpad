@@ -53,3 +53,65 @@ nav li{
 header{
     background-image: url(../../Hero-bg.png);
 }
+/* Action section */
+.action{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+.description{
+    font-weight: 400px;
+    font-size: 24px;
+    color: #252432;
+}
+.section{
+    display: flex; 
+    margin-top: 107px;
+    margin-left: 141px;
+    margin-right: 159px;
+    margin-bottom: 116px;
+    justify-content: space-between;
+}
+.selector{
+    border-radius: 30px;
+    width: 403px;
+    height: 328px;
+}
+/* acivement section */
+.achivements{
+    font: size 38px; ;
+    font-weight:bold ;
+    color:#252432 ;
+    text-align: center;
+    padding-top: 50px;
+}
+.third{
+    background-color:#706f8351;
+    margin-right: 159px;
+    margin-left: 141px;
+    padding: 20px 142px;
+    text-align: center;
+    border-radius: 15px;
+}
+section ul li{
+     list-style: none;
+}
+.item-title{
+    font-weight: 800;
+    font-size: 45px;
+    color:#4E47FF ;
+}
+.about-items{
+display: flex;
+justify-content: space-around;
+    }
+    .item-description{
+        color: #000000;
+        font-weight: 400px;
+        font-size: 20px;
+    }
+    /* revews */
+.reviews-title{
+    text-align: center;
+    margin: 165px;
+}
