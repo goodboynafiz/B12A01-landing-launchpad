@@ -35,3 +35,21 @@ nav li{
    border-radius: 10px;
    border: none;
 }
+/* banner part */
+.banner-conent{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+    max-width: 905px;
+    max-height: 152px;
+}
+.banner{
+    margin: 309px 267.5px 152px 400px;
+}
+.center{
+   display: flex;
+    justify-content: center;
+}
+.header{
+    background-image: url(../);
+}
